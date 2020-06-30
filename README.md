@@ -2,10 +2,10 @@
 Collection of files that need to be reviewed
 
 This repository contains:
-- person_detect_1.py - which uses the Network class, used in earlier lessons of this nanodegree
-- person_detect_2.py -  which uses the PersonDetect class, which was suggested for this project
-- queue_job.sh - which contains the job-submission script
-- submit_command.sh - which contains the command to submit the python script
+- [person_detect_1.py](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/person_detect_1.py) - which uses the Network class, used in earlier lessons of this nanodegree
+- [person_detect_2.py](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/person_detect_2.py) -  which uses the PersonDetect class, which was suggested for this project
+- [queue_job.sh](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/queue_job.sh) - which contains the job-submission script
+- [submit_command.sh](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/submit_command.sh) - which contains the command to submit the python script
 
 
 ## Problem
@@ -21,4 +21,4 @@ results/manufacturing/cpu/output_video.mp4
 stderr.log
 ```
 
-I suppose that something with in queue_job.sh or submit_command.sh must be faulty, but I reviewed it several times and can't find an error.
+I suppose that something with in [queue_job.sh](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/queue_job.sh) or [submit_command.sh](https://github.com/HartP97/Udacity_project_files_for_review/blob/master/submit_command.sh) must be faulty, but I reviewed it several times and can't find an error.
